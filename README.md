@@ -8,7 +8,7 @@ I've tinkered with stuff from Pascal to Processing, from C++ to Godot (great fan
 [![Github stats](https://github-readme-stats.vercel.app/api?username=AndreaTerenz&show_icons=true&include_all_commits=true)](https://github.com/AndreaTerenz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaTerenz&layout=compact)](https://github.com/AndreaTerenz/github-readme-stats)
 
-TL;DR:
+## TL;DR (kinda)
 
 - 🔭 I’m currently working on a  [maze generator in Godot](https://github.com/AndreaTerenz/GodotMaze)
 - 💬 Ask me about GDScript
