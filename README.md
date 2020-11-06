@@ -15,5 +15,3 @@ I've tinkered with stuff from Pascal to Processing, from C++ to Godot (great fan
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-andrea.terenziani.at@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrea.terenziani.at@gmail.com)](mailto:andrea.terenziani.at@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@AtTerenziani-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@AtTerenziani/)](https://www.twitter.com/@AtTerenziani/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know the Greek and NATO alphabets by memory and I have 2.2k karma on Reddit. Now **that** is a **fun** fact
--->
-
