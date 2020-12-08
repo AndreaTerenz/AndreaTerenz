@@ -10,7 +10,7 @@ I've tinkered with stuff from Pascal to Processing, from C++ to Godot (great fan
 
 ## TL;DR (kinda)
 
-- 🔭 I’m currently working on a  [maze generator in Godot](https://github.com/AndreaTerenz/GodotMaze)
+- 🔭 I’m currently working on a  [pong clone made with p5.js and node](https://github.com/AndreaTerenz/p5-pong)
 - 💬 Ask me about GDScript
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-andrea.terenziani.at@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrea.terenziani.at@gmail.com)](mailto:andrea.terenziani.at@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@AtTerenziani-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@AtTerenziani/)](https://www.twitter.com/@AtTerenziani/)
 - 😄 Pronouns: He/Him
