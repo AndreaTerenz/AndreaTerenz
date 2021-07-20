@@ -1,8 +1,8 @@
 ## Hey 👋, This is AndreaTerenz
-[![Gmail Badge](https://img.shields.io/badge/-andrea.terenziani.at@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrea.terenziani.at@gmail.com)](mailto:andrea.terenziani.at@gmail.com) [![Github Badge](https://img.shields.io/badge/-AndreaTerenz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndreaTerenz/)](https://www.github.com/AndreaTerenz/) [![Twitter Badge](https://img.shields.io/badge/-@AtTerenziani-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@AtTerenziani/)](https://www.twitter.com/@AtTerenziani/) <p align='left'>I'm a 21 year old CS student at the University of Modena and Reggio Emilia in Italy still figuring out what area of CS is most interesting.
-I've tinkered with stuff from Pascal to Processing, from C++ to Godot (great fan btw), from Bash to Python (but don't take me as an expert on everything) - Would love to do some web or game related projects.</p><p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-andrea.terenziani.at@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrea.terenziani.at@gmail.com)](mailto:andrea.terenziani.at@gmail.com) [![Github Badge](https://img.shields.io/badge/-AndreaTerenz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndreaTerenz/)](https://www.github.com/AndreaTerenz/) [![Twitter Badge](https://img.shields.io/badge/-@AtTerenziani-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@AtTerenziani/)](https://www.twitter.com/@AtTerenziani/)
+<p align='left'>I'm a 21 year old CS student at the University of Modena and Reggio Emilia in Italy with a passion for coding. I've tinkered with stuff from Pascal to Processing, from C++ to Godot (great fan btw), from Bash to Python; but don't take me as an expert on everything. Right now I'm most interested in game and web development, and after my Bachelor degree I'd like to take a Master's degree in Artificial Intelligence</p><p align='left'>
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AndreaTerenz alt=AndreaTerenz /> </p>
