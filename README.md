@@ -1,6 +1,6 @@
 ## Hey 👋, This is AndreaTerenz
 [![Gmail Badge](https://img.shields.io/badge/-andrea.terenziani.at@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrea.terenziani.at@gmail.com)](mailto:andrea.terenziani.at@gmail.com) [![Github Badge](https://img.shields.io/badge/-AndreaTerenz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndreaTerenz/)](https://www.github.com/AndreaTerenz/) [![Twitter Badge](https://img.shields.io/badge/-@AtTerenziani-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@AtTerenziani/)](https://www.twitter.com/@AtTerenziani/)
-<p align='left'>I'm a 24 y.o. CS student at the University of Bologna in Italy, doing my Msc in Artificial Intelligence. I've tinkered with stuff from Pascal to Processing, from C++ to JS, from Bash to Python; but right now my biggest passion is game development, using the great Godot Game Engine.</p><p align='left'>
+<p align='left'>I'm a 25 y.o. CS student at the University of Bologna in Italy, doing my Msc in Artificial Intelligence. I've tinkered with stuff from Pascal to Processing, from C++ to JS, from Bash to Python; but right now my biggest passion is game development, using the great Godot Game Engine.</p><p align='left'>
 
 Pronouns: He/Him
 
